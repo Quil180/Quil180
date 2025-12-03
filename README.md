@@ -1,4 +1,4 @@
-# Hi, I'm Quil180 👋
+# Hi, I'm Yousef Awad 👋
 
 ## About Me
 I'm a hardware design enthusiast passionate about digital design, FPGA development, and formal verification. 
