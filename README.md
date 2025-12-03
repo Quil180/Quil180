@@ -25,9 +25,5 @@ I'm a hardware design enthusiast passionate about digital design, FPGA developme
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-181717?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousefalaaawad/)
 [![Email](https://img.shields.io/badge/-Email-181717?style=flat&logo=linkedin&logoColor=white)](mailto:yousefalaaawad@gmail.com)
 
-## 📊 GitHub Stats
-<details>
-  <summary>Github Stats</summary>
-
-  <img align="left" alt="Quil180's Github Stats" src="https://github-readme-stats-yousef-awads-projects.vercel.app/api?username=Quil180&show_icons=true&hide_border=true" />
-</details>
+## 📊 GitHub Stats (incase you are interested)
+[![Quil180's GitHub stats](https://github-readme-stats-ten-rose-26.vercel.app/api?username=Quil180&theme=vue)](https://github.com/Quil180/github-readme-stats)
